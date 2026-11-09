@@ -1,2 +1,2 @@
 # Netflix Movies and Tv shows Data analysis using SQL
-![Netflixlogo]()
+![Netflixlogo](https://github.com/shoumik35/Netflix_Businesscasesql/blob/main/Netflixlogo.png)
